@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064698888139",
+    "project_id": "memey3-a15ab",
+    "storage_bucket": "memey3-a15ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064698888139:android:4e5b4b7b18cd03012e004e",
+        "android_client_info": {
+          "package_name": "memeyapp.memey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064698888139-k0dvpf13cbpdc0e2n608tahhfjf7c1up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzj5FNKTmdUeb1FfUtDDoEVTPwiVq3Q04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064698888139-k0dvpf13cbpdc0e2n608tahhfjf7c1up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

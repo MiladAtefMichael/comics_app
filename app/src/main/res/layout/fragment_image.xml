@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".image"
+    android:background="#DDDDDD">
+    <ImageView
+        android:id="@+id/image_screen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="30dp">
+        <Button
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:padding="5dp"
+            android:id="@+id/close"
+            android:foreground="@drawable/ic_close_black_24dp"/>
+        <Button
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:padding="5dp"
+            android:layout_alignParentRight="true"
+            android:id="@+id/download"
+            android:foreground="@drawable/ic_file_download_black_24dp"/>
+    </RelativeLayout>
+
+
+</FrameLayout>
